@@ -1,0 +1,12 @@
+.container{
+    margin-top: 10px;
+    height: 20px;
+    display: flex;
+    width:"100%";
+    border: 2px solid black;
+    border-radius: 3px;
+}
+.outer_container{
+    height:"50px";
+    margin-top: 40px;
+}

@@ -1,0 +1,30 @@
+.outer_cover{
+    height: auto;
+    /* width: 70vw; */
+    /* min-height: 30vh; */
+    /* min-width: 70vw; */
+    /* margin: auto; */
+    margin-top: 10vh;
+}
+.options_styling{
+    display: flex;
+    justify-content: space-between;
+}
+.option_container{
+    /* width: 70vw; */
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.option_btn{
+    width: 48%;
+    min-height: 2rem;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    text-align: center;
+}
+.option_context{
+    width: 47%;
+    
+}
